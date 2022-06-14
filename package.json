@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-tiktok-pixel-module",
+  "version": "0.1.0",
+  "description": "A NuxtJS module thats injects Tiktok Pixel code",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaramanaiyer/nuxt-tiktok-pixel-module.git"
+  },
+  "author": "Shivaraman Aiyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivaramanaiyer/nuxt-tiktok-pixel-module/issues"
+  },
+  "homepage": "https://github.com/shivaramanaiyer/nuxt-tiktok-pixel-module#readme"
+}
