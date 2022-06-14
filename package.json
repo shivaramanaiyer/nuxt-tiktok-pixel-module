@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-tiktok-pixel-module",
+  "name": "nuxt-tiktok-pixels-module",
   "version": "0.1.0",
   "description": "A NuxtJS module thats injects Tiktok Pixel code",
   "main": "lib/module.js",
